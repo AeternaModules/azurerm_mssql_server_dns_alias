@@ -1,6 +1,6 @@
-variable "mssql_server_dns_aliass" {
+variable "mssql_server_dns_aliases" {
   description = <<EOT
-Map of mssql_server_dns_aliass, attributes below
+Map of mssql_server_dns_aliases, attributes below
 Required:
     - mssql_server_id
     - name
